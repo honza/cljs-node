@@ -1,4 +1,5 @@
-(defproject cljs-node/lein-template "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject cljs-node/lein-template "0.1.0"
+  :description "cljs-node template"
+  :license "BSD"
+  :url "https://github.com/honza/cljs-node"
   :eval-in-leiningen true)
